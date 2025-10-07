@@ -1,0 +1,12 @@
+# requirements.txt
+
+streamlit
+google-generativeai
+python-dotenv
+PyPDF2
+matplotlib
+fpdf2
+requests
+python-docx
+pandas
+openpyxl
